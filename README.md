@@ -8,8 +8,7 @@ Para alimentar o NotebookLM e embasar meus estudos, selecionei as seguintes font
 1. [Documentação Oficial do React Native](https://reactnative.dev/docs/getting-started) - Guia fundamental.
 2. [Documentação do TypeScript](https://www.typescriptlang.org/docs/) - Foco em Type Safety.
 3. [Documentação do Expo](https://docs.expo.dev/) - Ferramentas e fluxo de trabalho.
-4. (Adicione aqui mais um link de um artigo ou PDF que você usou).
-
+   
 ## Engenharia de Prompts e "Cicatrizes"
 Nesta seção, registro como utilizei a IA para aprofundar meu conhecimento:
 
